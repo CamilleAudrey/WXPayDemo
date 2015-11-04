@@ -1,0 +1,1 @@
+童鞋们要将自己的APP_ID APP_SECRET MCH_ID PARTNER_ID URL Schemes填好才能运行哦iiiiiii
